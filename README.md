@@ -1,13 +1,5 @@
 # Supply Chain Analysis: Improving Leadtime for a B2C Cereal Company
 
-## Structure
-
-- Introduction
-- Key Findings
-- 
-
-## The Setup
-
 The client is a B2C cereal company selling solely through their online channels to customers, no physical stores. The project has two parts: First, check the stakeholder's assumptions and reconstruct the actual process that makes up the leadtime. Second, make suggestions to improve leadtime.
 
 ## Stakeholder assumptions
