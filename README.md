@@ -51,3 +51,6 @@ Handling all orders as express would decrease lead time by ~36% and have the pro
 Lastly, the client should renegotiate with the logistics provider to either pay less, or get the contractually agreed 3 days to further decrease the lead time by 1.5 days, resulting in a final 5.5 days from taking the order to it being delivered at the customer's doorstep. This would be another improvement of ~21%.
 
 
+---
+For a more in-depth analysis and all technical details, check out the jupyter notebook [muesli_eda](https://github.com/GHLukasLang/muesli_lead_time/blob/main/muesli_eda.ipynb)!
+
